@@ -1,3 +1,4 @@
+```
 Assignment name  : ft_printf
 Expected files   : ft_printf.c
 Allowed functions: malloc, free, write, va_start, va_arg, va_copy, va_end
@@ -25,5 +26,7 @@ call: ft_printf("Hexadecimal for %d is %x\n", 42, 42);
 out: Hexadecimal for 42 is 2a$
 
 Obs: Your function must not have memory leaks. Moulinette will test that.
+```
 
+# *his was my solution for exam03 ft_printf exercise.
 <img width="688" alt="Screen Shot 2024-08-22 at 11 05 57 AM" src="https://github.com/user-attachments/assets/1ace3900-0941-4708-b303-261de61f0dd7">
